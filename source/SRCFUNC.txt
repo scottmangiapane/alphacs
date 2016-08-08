@@ -40,10 +40,6 @@ DelVar "appv alpha "
 Return
 Lbl D1
 .draws title
-...
-[r1] x value
-[r2] y value
-...
 Pt-On([r1]+1,[r2]+1,Pic11)
 Pt-On([r1]+10,[r2]+1,Pic12)
 Pt-On([r1]+19,[r2]+1,Pic13)
@@ -62,7 +58,6 @@ Pxl-Off([r1]+65,[r2]+9)
 Return
 Lbl D2
 .windows
-.sub(x,y,w,h,"string")
 Rect([r1]+1,[r2],[r3]-2,[r4])
 Rect([r1],[r2]+1,[r3],[r4]-2)
 RectI([r1]+1,[r2]+1,[r3]-2,[r4]-2)

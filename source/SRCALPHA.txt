@@ -4,35 +4,6 @@ If getKey(41)
 	sub(ADM)
 End
 Lbl START
-...
-A fldrs?
-B cursor
-prgm {
-C pointer
-D archive
-E lock
-F hide
-H type
-}
-G cursor max
-H^
-temp {
-S
-T
-U
-V
-W
-X
-Y
-Z
-} reps
-[Y1] (Str1) "appv alpha "
-0 code?
-1,2,3,4 code
-5 hidden?
-6 case?
-[Y3] prgm
-...
 "appv alpha "->Str1
 "appvAlphaCS"->Str2
 .ALPHA CS

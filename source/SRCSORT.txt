@@ -1,12 +1,5 @@
 .SORT AlphaCS
 Lbl POLAR
-...
-L1 return
-L2 sorting
-([r1]) first?
-[r2] VAT
-[r3] loops
-...
 Fill(L1,50,0)
 {|E9830}^^r->[r2]
 Repeat (({[r2]}=5) or ({[r2]}=6)) and (({[r2]-7}>48) or (({[Y1]+5}) and ({[r2]-7}<28)))
@@ -42,17 +35,6 @@ Repeat 0
 	[r2]-{[r2]-6}-7->[r2]
 End
 Lbl ADJ
-...
-L1 return
-L2 sorting
-L3 previous
-L4 sto next
-L5 sto prev
-([r1]) next?
-[r2] VAT
-[r3] loops
-[r4] check
-...
 Fill(L2,50,0)
 Copy(L1+1,L2,20)
 Fill(L1,50,0)
