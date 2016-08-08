@@ -23,31 +23,3 @@ This program is built for the Texas Instruments 83+/84 graphing calculator (blac
 <li>Transfer alphacs.8xk to the device using TI Connect</li>
 <li>Run the program from the [APPS] menu</li>
 </ul>
-
-## How to Use
-
-On the homescreen:
-<br>
-<ul>
-<li>Use the up and down arrow keys to move</li>
-<li>Press [2ND] or [ENTER] to select a program</li>
-<li>Press [ALPHA] to go to the AlphaCS settings menu</li>
-<li>Press clear to exit</li>
-</ul>
-
-On the program screen:
-<br>
-<ul>
-<li>Use the up and down arrow keys to move</li>
-<li>Press [2ND] or [ENTER] to select an option</li>
-<li>Press [CLEAR] to go to the homescreen</li>
-</ul>
-
-On the settings screen:
-<br>
-<ul>
-<li>"Show Hidden" will show all programs (hidden or not) on the homescreen</li>
-<li>"Password" will enable or disable the startup password</li>
-<li>"Lowercase" will enable TI-OS lowercase</li>
-<li>"Uninstall AlphaCS" will reset your passcode</li>
-</ul>
