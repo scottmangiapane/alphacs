@@ -1,4 +1,4 @@
- AlphaCS
+.GUI AlphaCS
 #Axiom(RUNPRGM)
 #Axiom(ZSTAXE)
 Lbl DLIST
