@@ -23,3 +23,7 @@ This program is built for the Texas Instruments 83+/84 graphing calculator (blac
 <li>Transfer alphacs.8xk to the device using TI Connect</li>
 <li>Run the program from the [APPS] menu</li>
 </ul>
+
+## Special Thanks
+
+Special thanks to [Brian Coventry](https://github.com/bcov77) for his work on [zStart](https://www.omnimaga.org/ti-z80-calculator-projects/zstart-an-app-that-runs-on-ram-clears/msg361451/#msg361451) and zstAxe, without which this wouldn't be possible.
